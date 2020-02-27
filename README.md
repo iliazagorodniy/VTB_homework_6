@@ -1,6 +1,8 @@
 # VTB_homework_6
 local storage and custom components
 
+github pages: https://iliazagorodniy.github.io/VTB_homework_6/
+
 1) необходимо разработать пользовательский элемент,
 который отображает кол-во дней минут и секунд до дедлайна и описание дедлайна (что нужно сделать).
 
